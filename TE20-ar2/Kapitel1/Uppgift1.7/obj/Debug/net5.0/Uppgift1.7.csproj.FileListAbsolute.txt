@@ -1,0 +1,16 @@
+C:\github\TE20-ar2\Uppgift1.7\bin\Debug\net5.0\Uppgift1.7.exe
+C:\github\TE20-ar2\Uppgift1.7\bin\Debug\net5.0\Uppgift1.7.deps.json
+C:\github\TE20-ar2\Uppgift1.7\bin\Debug\net5.0\Uppgift1.7.runtimeconfig.json
+C:\github\TE20-ar2\Uppgift1.7\bin\Debug\net5.0\Uppgift1.7.runtimeconfig.dev.json
+C:\github\TE20-ar2\Uppgift1.7\bin\Debug\net5.0\Uppgift1.7.dll
+C:\github\TE20-ar2\Uppgift1.7\bin\Debug\net5.0\ref\Uppgift1.7.dll
+C:\github\TE20-ar2\Uppgift1.7\bin\Debug\net5.0\Uppgift1.7.pdb
+C:\github\TE20-ar2\Uppgift1.7\obj\Debug\net5.0\Uppgift1.7.csproj.AssemblyReference.cache
+C:\github\TE20-ar2\Uppgift1.7\obj\Debug\net5.0\Uppgift1.7.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\TE20-ar2\Uppgift1.7\obj\Debug\net5.0\Uppgift1.7.AssemblyInfoInputs.cache
+C:\github\TE20-ar2\Uppgift1.7\obj\Debug\net5.0\Uppgift1.7.AssemblyInfo.cs
+C:\github\TE20-ar2\Uppgift1.7\obj\Debug\net5.0\Uppgift1.7.csproj.CoreCompileInputs.cache
+C:\github\TE20-ar2\Uppgift1.7\obj\Debug\net5.0\Uppgift1.7.dll
+C:\github\TE20-ar2\Uppgift1.7\obj\Debug\net5.0\ref\Uppgift1.7.dll
+C:\github\TE20-ar2\Uppgift1.7\obj\Debug\net5.0\Uppgift1.7.pdb
+C:\github\TE20-ar2\Uppgift1.7\obj\Debug\net5.0\Uppgift1.7.genruntimeconfig.cache

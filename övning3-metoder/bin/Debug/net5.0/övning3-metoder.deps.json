@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "övning3-metoder/1.0.0": {
+        "runtime": {
+          "övning3-metoder.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "övning3-metoder/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

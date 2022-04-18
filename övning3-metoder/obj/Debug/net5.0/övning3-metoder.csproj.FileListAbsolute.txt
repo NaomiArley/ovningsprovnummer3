@@ -1,0 +1,16 @@
+C:\github\övningProv3\övning3-metoder\bin\Debug\net5.0\övning3-metoder.exe
+C:\github\övningProv3\övning3-metoder\bin\Debug\net5.0\övning3-metoder.deps.json
+C:\github\övningProv3\övning3-metoder\bin\Debug\net5.0\övning3-metoder.runtimeconfig.json
+C:\github\övningProv3\övning3-metoder\bin\Debug\net5.0\övning3-metoder.runtimeconfig.dev.json
+C:\github\övningProv3\övning3-metoder\bin\Debug\net5.0\övning3-metoder.dll
+C:\github\övningProv3\övning3-metoder\bin\Debug\net5.0\ref\övning3-metoder.dll
+C:\github\övningProv3\övning3-metoder\bin\Debug\net5.0\övning3-metoder.pdb
+C:\github\övningProv3\övning3-metoder\obj\Debug\net5.0\övning3-metoder.csproj.AssemblyReference.cache
+C:\github\övningProv3\övning3-metoder\obj\Debug\net5.0\övning3-metoder.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\övningProv3\övning3-metoder\obj\Debug\net5.0\övning3-metoder.AssemblyInfoInputs.cache
+C:\github\övningProv3\övning3-metoder\obj\Debug\net5.0\övning3-metoder.AssemblyInfo.cs
+C:\github\övningProv3\övning3-metoder\obj\Debug\net5.0\övning3-metoder.csproj.CoreCompileInputs.cache
+C:\github\övningProv3\övning3-metoder\obj\Debug\net5.0\övning3-metoder.dll
+C:\github\övningProv3\övning3-metoder\obj\Debug\net5.0\ref\övning3-metoder.dll
+C:\github\övningProv3\övning3-metoder\obj\Debug\net5.0\övning3-metoder.pdb
+C:\github\övningProv3\övning3-metoder\obj\Debug\net5.0\övning3-metoder.genruntimeconfig.cache

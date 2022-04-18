@@ -1,0 +1,16 @@
+C:\github\slagsmalspelet-NaomiArley\bin\Debug\net5.0\slagsmalspelet-NaomiArley.exe
+C:\github\slagsmalspelet-NaomiArley\bin\Debug\net5.0\slagsmalspelet-NaomiArley.deps.json
+C:\github\slagsmalspelet-NaomiArley\bin\Debug\net5.0\slagsmalspelet-NaomiArley.runtimeconfig.json
+C:\github\slagsmalspelet-NaomiArley\bin\Debug\net5.0\slagsmalspelet-NaomiArley.runtimeconfig.dev.json
+C:\github\slagsmalspelet-NaomiArley\bin\Debug\net5.0\slagsmalspelet-NaomiArley.dll
+C:\github\slagsmalspelet-NaomiArley\bin\Debug\net5.0\ref\slagsmalspelet-NaomiArley.dll
+C:\github\slagsmalspelet-NaomiArley\bin\Debug\net5.0\slagsmalspelet-NaomiArley.pdb
+C:\github\slagsmalspelet-NaomiArley\obj\Debug\net5.0\slagsmalspelet-NaomiArley.csproj.AssemblyReference.cache
+C:\github\slagsmalspelet-NaomiArley\obj\Debug\net5.0\slagsmalspelet-NaomiArley.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\slagsmalspelet-NaomiArley\obj\Debug\net5.0\slagsmalspelet-NaomiArley.AssemblyInfoInputs.cache
+C:\github\slagsmalspelet-NaomiArley\obj\Debug\net5.0\slagsmalspelet-NaomiArley.AssemblyInfo.cs
+C:\github\slagsmalspelet-NaomiArley\obj\Debug\net5.0\slagsmalspelet-NaomiArley.csproj.CoreCompileInputs.cache
+C:\github\slagsmalspelet-NaomiArley\obj\Debug\net5.0\slagsmalspelet-NaomiArley.dll
+C:\github\slagsmalspelet-NaomiArley\obj\Debug\net5.0\ref\slagsmalspelet-NaomiArley.dll
+C:\github\slagsmalspelet-NaomiArley\obj\Debug\net5.0\slagsmalspelet-NaomiArley.pdb
+C:\github\slagsmalspelet-NaomiArley\obj\Debug\net5.0\slagsmalspelet-NaomiArley.genruntimeconfig.cache

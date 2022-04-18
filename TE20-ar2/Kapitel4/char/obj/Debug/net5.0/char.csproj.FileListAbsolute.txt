@@ -1,0 +1,16 @@
+C:\github\TE20-ar2\Kapitel4\char\obj\Debug\net5.0\char.csproj.AssemblyReference.cache
+C:\github\TE20-ar2\Kapitel4\char\obj\Debug\net5.0\char.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\TE20-ar2\Kapitel4\char\obj\Debug\net5.0\char.AssemblyInfoInputs.cache
+C:\github\TE20-ar2\Kapitel4\char\obj\Debug\net5.0\char.AssemblyInfo.cs
+C:\github\TE20-ar2\Kapitel4\char\obj\Debug\net5.0\char.csproj.CoreCompileInputs.cache
+C:\github\TE20-ar2\Kapitel4\char\bin\Debug\net5.0\char.exe
+C:\github\TE20-ar2\Kapitel4\char\bin\Debug\net5.0\char.deps.json
+C:\github\TE20-ar2\Kapitel4\char\bin\Debug\net5.0\char.runtimeconfig.json
+C:\github\TE20-ar2\Kapitel4\char\bin\Debug\net5.0\char.runtimeconfig.dev.json
+C:\github\TE20-ar2\Kapitel4\char\bin\Debug\net5.0\char.dll
+C:\github\TE20-ar2\Kapitel4\char\bin\Debug\net5.0\ref\char.dll
+C:\github\TE20-ar2\Kapitel4\char\bin\Debug\net5.0\char.pdb
+C:\github\TE20-ar2\Kapitel4\char\obj\Debug\net5.0\char.dll
+C:\github\TE20-ar2\Kapitel4\char\obj\Debug\net5.0\ref\char.dll
+C:\github\TE20-ar2\Kapitel4\char\obj\Debug\net5.0\char.pdb
+C:\github\TE20-ar2\Kapitel4\char\obj\Debug\net5.0\char.genruntimeconfig.cache

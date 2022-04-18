@@ -1,0 +1,16 @@
+C:\github\TE20-ar2\Kapitel4\menyprogram\bin\Debug\net5.0\menyprogram.exe
+C:\github\TE20-ar2\Kapitel4\menyprogram\bin\Debug\net5.0\menyprogram.deps.json
+C:\github\TE20-ar2\Kapitel4\menyprogram\bin\Debug\net5.0\menyprogram.runtimeconfig.json
+C:\github\TE20-ar2\Kapitel4\menyprogram\bin\Debug\net5.0\menyprogram.runtimeconfig.dev.json
+C:\github\TE20-ar2\Kapitel4\menyprogram\bin\Debug\net5.0\menyprogram.dll
+C:\github\TE20-ar2\Kapitel4\menyprogram\bin\Debug\net5.0\ref\menyprogram.dll
+C:\github\TE20-ar2\Kapitel4\menyprogram\bin\Debug\net5.0\menyprogram.pdb
+C:\github\TE20-ar2\Kapitel4\menyprogram\obj\Debug\net5.0\menyprogram.csproj.AssemblyReference.cache
+C:\github\TE20-ar2\Kapitel4\menyprogram\obj\Debug\net5.0\menyprogram.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\TE20-ar2\Kapitel4\menyprogram\obj\Debug\net5.0\menyprogram.AssemblyInfoInputs.cache
+C:\github\TE20-ar2\Kapitel4\menyprogram\obj\Debug\net5.0\menyprogram.AssemblyInfo.cs
+C:\github\TE20-ar2\Kapitel4\menyprogram\obj\Debug\net5.0\menyprogram.csproj.CoreCompileInputs.cache
+C:\github\TE20-ar2\Kapitel4\menyprogram\obj\Debug\net5.0\menyprogram.dll
+C:\github\TE20-ar2\Kapitel4\menyprogram\obj\Debug\net5.0\ref\menyprogram.dll
+C:\github\TE20-ar2\Kapitel4\menyprogram\obj\Debug\net5.0\menyprogram.pdb
+C:\github\TE20-ar2\Kapitel4\menyprogram\obj\Debug\net5.0\menyprogram.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\github\TE20-ar2\Kapitel3\Interaktiv-Berättelse\bin\Debug\net5.0\Interaktiv-Berättelse.exe
+C:\github\TE20-ar2\Kapitel3\Interaktiv-Berättelse\bin\Debug\net5.0\Interaktiv-Berättelse.deps.json
+C:\github\TE20-ar2\Kapitel3\Interaktiv-Berättelse\bin\Debug\net5.0\Interaktiv-Berättelse.runtimeconfig.json
+C:\github\TE20-ar2\Kapitel3\Interaktiv-Berättelse\bin\Debug\net5.0\Interaktiv-Berättelse.runtimeconfig.dev.json
+C:\github\TE20-ar2\Kapitel3\Interaktiv-Berättelse\bin\Debug\net5.0\Interaktiv-Berättelse.dll
+C:\github\TE20-ar2\Kapitel3\Interaktiv-Berättelse\bin\Debug\net5.0\ref\Interaktiv-Berättelse.dll
+C:\github\TE20-ar2\Kapitel3\Interaktiv-Berättelse\bin\Debug\net5.0\Interaktiv-Berättelse.pdb
+C:\github\TE20-ar2\Kapitel3\Interaktiv-Berättelse\obj\Debug\net5.0\Interaktiv-Berättelse.csproj.AssemblyReference.cache
+C:\github\TE20-ar2\Kapitel3\Interaktiv-Berättelse\obj\Debug\net5.0\Interaktiv-Berättelse.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\TE20-ar2\Kapitel3\Interaktiv-Berättelse\obj\Debug\net5.0\Interaktiv-Berättelse.AssemblyInfoInputs.cache
+C:\github\TE20-ar2\Kapitel3\Interaktiv-Berättelse\obj\Debug\net5.0\Interaktiv-Berättelse.AssemblyInfo.cs
+C:\github\TE20-ar2\Kapitel3\Interaktiv-Berättelse\obj\Debug\net5.0\Interaktiv-Berättelse.csproj.CoreCompileInputs.cache
+C:\github\TE20-ar2\Kapitel3\Interaktiv-Berättelse\obj\Debug\net5.0\Interaktiv-Berättelse.dll
+C:\github\TE20-ar2\Kapitel3\Interaktiv-Berättelse\obj\Debug\net5.0\ref\Interaktiv-Berättelse.dll
+C:\github\TE20-ar2\Kapitel3\Interaktiv-Berättelse\obj\Debug\net5.0\Interaktiv-Berättelse.pdb
+C:\github\TE20-ar2\Kapitel3\Interaktiv-Berättelse\obj\Debug\net5.0\Interaktiv-Berättelse.genruntimeconfig.cache

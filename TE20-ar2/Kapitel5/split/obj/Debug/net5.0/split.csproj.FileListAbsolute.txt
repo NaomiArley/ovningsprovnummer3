@@ -1,0 +1,16 @@
+C:\github\TE20-ar2\Kapitel5\split\bin\Debug\net5.0\split.exe
+C:\github\TE20-ar2\Kapitel5\split\bin\Debug\net5.0\split.deps.json
+C:\github\TE20-ar2\Kapitel5\split\bin\Debug\net5.0\split.runtimeconfig.json
+C:\github\TE20-ar2\Kapitel5\split\bin\Debug\net5.0\split.runtimeconfig.dev.json
+C:\github\TE20-ar2\Kapitel5\split\bin\Debug\net5.0\split.dll
+C:\github\TE20-ar2\Kapitel5\split\bin\Debug\net5.0\ref\split.dll
+C:\github\TE20-ar2\Kapitel5\split\bin\Debug\net5.0\split.pdb
+C:\github\TE20-ar2\Kapitel5\split\obj\Debug\net5.0\split.csproj.AssemblyReference.cache
+C:\github\TE20-ar2\Kapitel5\split\obj\Debug\net5.0\split.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\TE20-ar2\Kapitel5\split\obj\Debug\net5.0\split.AssemblyInfoInputs.cache
+C:\github\TE20-ar2\Kapitel5\split\obj\Debug\net5.0\split.AssemblyInfo.cs
+C:\github\TE20-ar2\Kapitel5\split\obj\Debug\net5.0\split.csproj.CoreCompileInputs.cache
+C:\github\TE20-ar2\Kapitel5\split\obj\Debug\net5.0\split.dll
+C:\github\TE20-ar2\Kapitel5\split\obj\Debug\net5.0\ref\split.dll
+C:\github\TE20-ar2\Kapitel5\split\obj\Debug\net5.0\split.pdb
+C:\github\TE20-ar2\Kapitel5\split\obj\Debug\net5.0\split.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\github\ovningInforProv\bin\Debug\net5.0\ovningInforProv.exe
+C:\github\ovningInforProv\bin\Debug\net5.0\ovningInforProv.deps.json
+C:\github\ovningInforProv\bin\Debug\net5.0\ovningInforProv.runtimeconfig.json
+C:\github\ovningInforProv\bin\Debug\net5.0\ovningInforProv.runtimeconfig.dev.json
+C:\github\ovningInforProv\bin\Debug\net5.0\ovningInforProv.dll
+C:\github\ovningInforProv\bin\Debug\net5.0\ref\ovningInforProv.dll
+C:\github\ovningInforProv\bin\Debug\net5.0\ovningInforProv.pdb
+C:\github\ovningInforProv\obj\Debug\net5.0\ovningInforProv.csproj.AssemblyReference.cache
+C:\github\ovningInforProv\obj\Debug\net5.0\ovningInforProv.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\ovningInforProv\obj\Debug\net5.0\ovningInforProv.AssemblyInfoInputs.cache
+C:\github\ovningInforProv\obj\Debug\net5.0\ovningInforProv.AssemblyInfo.cs
+C:\github\ovningInforProv\obj\Debug\net5.0\ovningInforProv.csproj.CoreCompileInputs.cache
+C:\github\ovningInforProv\obj\Debug\net5.0\ovningInforProv.dll
+C:\github\ovningInforProv\obj\Debug\net5.0\ref\ovningInforProv.dll
+C:\github\ovningInforProv\obj\Debug\net5.0\ovningInforProv.pdb
+C:\github\ovningInforProv\obj\Debug\net5.0\ovningInforProv.genruntimeconfig.cache

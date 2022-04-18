@@ -1,0 +1,16 @@
+C:\github\TE20-ar2\Kapitel3\EngFlowchart\bin\Debug\net5.0\EngFlowchart.exe
+C:\github\TE20-ar2\Kapitel3\EngFlowchart\bin\Debug\net5.0\EngFlowchart.deps.json
+C:\github\TE20-ar2\Kapitel3\EngFlowchart\bin\Debug\net5.0\EngFlowchart.runtimeconfig.json
+C:\github\TE20-ar2\Kapitel3\EngFlowchart\bin\Debug\net5.0\EngFlowchart.runtimeconfig.dev.json
+C:\github\TE20-ar2\Kapitel3\EngFlowchart\bin\Debug\net5.0\EngFlowchart.dll
+C:\github\TE20-ar2\Kapitel3\EngFlowchart\bin\Debug\net5.0\ref\EngFlowchart.dll
+C:\github\TE20-ar2\Kapitel3\EngFlowchart\bin\Debug\net5.0\EngFlowchart.pdb
+C:\github\TE20-ar2\Kapitel3\EngFlowchart\obj\Debug\net5.0\EngFlowchart.csproj.AssemblyReference.cache
+C:\github\TE20-ar2\Kapitel3\EngFlowchart\obj\Debug\net5.0\EngFlowchart.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\TE20-ar2\Kapitel3\EngFlowchart\obj\Debug\net5.0\EngFlowchart.AssemblyInfoInputs.cache
+C:\github\TE20-ar2\Kapitel3\EngFlowchart\obj\Debug\net5.0\EngFlowchart.AssemblyInfo.cs
+C:\github\TE20-ar2\Kapitel3\EngFlowchart\obj\Debug\net5.0\EngFlowchart.csproj.CoreCompileInputs.cache
+C:\github\TE20-ar2\Kapitel3\EngFlowchart\obj\Debug\net5.0\EngFlowchart.dll
+C:\github\TE20-ar2\Kapitel3\EngFlowchart\obj\Debug\net5.0\ref\EngFlowchart.dll
+C:\github\TE20-ar2\Kapitel3\EngFlowchart\obj\Debug\net5.0\EngFlowchart.pdb
+C:\github\TE20-ar2\Kapitel3\EngFlowchart\obj\Debug\net5.0\EngFlowchart.genruntimeconfig.cache

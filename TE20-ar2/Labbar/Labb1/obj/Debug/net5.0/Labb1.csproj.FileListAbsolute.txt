@@ -1,0 +1,16 @@
+C:\github\TE20-ar2\Labbar\Labb1\bin\Debug\net5.0\Labb1.exe
+C:\github\TE20-ar2\Labbar\Labb1\bin\Debug\net5.0\Labb1.deps.json
+C:\github\TE20-ar2\Labbar\Labb1\bin\Debug\net5.0\Labb1.runtimeconfig.json
+C:\github\TE20-ar2\Labbar\Labb1\bin\Debug\net5.0\Labb1.runtimeconfig.dev.json
+C:\github\TE20-ar2\Labbar\Labb1\bin\Debug\net5.0\Labb1.dll
+C:\github\TE20-ar2\Labbar\Labb1\bin\Debug\net5.0\ref\Labb1.dll
+C:\github\TE20-ar2\Labbar\Labb1\bin\Debug\net5.0\Labb1.pdb
+C:\github\TE20-ar2\Labbar\Labb1\obj\Debug\net5.0\Labb1.csproj.AssemblyReference.cache
+C:\github\TE20-ar2\Labbar\Labb1\obj\Debug\net5.0\Labb1.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\TE20-ar2\Labbar\Labb1\obj\Debug\net5.0\Labb1.AssemblyInfoInputs.cache
+C:\github\TE20-ar2\Labbar\Labb1\obj\Debug\net5.0\Labb1.AssemblyInfo.cs
+C:\github\TE20-ar2\Labbar\Labb1\obj\Debug\net5.0\Labb1.csproj.CoreCompileInputs.cache
+C:\github\TE20-ar2\Labbar\Labb1\obj\Debug\net5.0\Labb1.dll
+C:\github\TE20-ar2\Labbar\Labb1\obj\Debug\net5.0\ref\Labb1.dll
+C:\github\TE20-ar2\Labbar\Labb1\obj\Debug\net5.0\Labb1.pdb
+C:\github\TE20-ar2\Labbar\Labb1\obj\Debug\net5.0\Labb1.genruntimeconfig.cache

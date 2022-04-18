@@ -1,0 +1,16 @@
+C:\github\TE20-ar2\Kapitel3\Villkor\bin\Debug\net5.0\Villkor.exe
+C:\github\TE20-ar2\Kapitel3\Villkor\bin\Debug\net5.0\Villkor.deps.json
+C:\github\TE20-ar2\Kapitel3\Villkor\bin\Debug\net5.0\Villkor.runtimeconfig.json
+C:\github\TE20-ar2\Kapitel3\Villkor\bin\Debug\net5.0\Villkor.runtimeconfig.dev.json
+C:\github\TE20-ar2\Kapitel3\Villkor\bin\Debug\net5.0\Villkor.dll
+C:\github\TE20-ar2\Kapitel3\Villkor\bin\Debug\net5.0\ref\Villkor.dll
+C:\github\TE20-ar2\Kapitel3\Villkor\bin\Debug\net5.0\Villkor.pdb
+C:\github\TE20-ar2\Kapitel3\Villkor\obj\Debug\net5.0\Villkor.csproj.AssemblyReference.cache
+C:\github\TE20-ar2\Kapitel3\Villkor\obj\Debug\net5.0\Villkor.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\TE20-ar2\Kapitel3\Villkor\obj\Debug\net5.0\Villkor.AssemblyInfoInputs.cache
+C:\github\TE20-ar2\Kapitel3\Villkor\obj\Debug\net5.0\Villkor.AssemblyInfo.cs
+C:\github\TE20-ar2\Kapitel3\Villkor\obj\Debug\net5.0\Villkor.csproj.CoreCompileInputs.cache
+C:\github\TE20-ar2\Kapitel3\Villkor\obj\Debug\net5.0\Villkor.dll
+C:\github\TE20-ar2\Kapitel3\Villkor\obj\Debug\net5.0\ref\Villkor.dll
+C:\github\TE20-ar2\Kapitel3\Villkor\obj\Debug\net5.0\Villkor.pdb
+C:\github\TE20-ar2\Kapitel3\Villkor\obj\Debug\net5.0\Villkor.genruntimeconfig.cache

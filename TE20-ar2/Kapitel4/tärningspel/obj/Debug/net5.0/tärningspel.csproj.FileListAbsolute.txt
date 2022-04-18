@@ -1,0 +1,16 @@
+C:\github\TE20-ar2\Kapitel4\tärningspel\bin\Debug\net5.0\tärningspel.exe
+C:\github\TE20-ar2\Kapitel4\tärningspel\bin\Debug\net5.0\tärningspel.deps.json
+C:\github\TE20-ar2\Kapitel4\tärningspel\bin\Debug\net5.0\tärningspel.runtimeconfig.json
+C:\github\TE20-ar2\Kapitel4\tärningspel\bin\Debug\net5.0\tärningspel.runtimeconfig.dev.json
+C:\github\TE20-ar2\Kapitel4\tärningspel\bin\Debug\net5.0\tärningspel.dll
+C:\github\TE20-ar2\Kapitel4\tärningspel\bin\Debug\net5.0\ref\tärningspel.dll
+C:\github\TE20-ar2\Kapitel4\tärningspel\bin\Debug\net5.0\tärningspel.pdb
+C:\github\TE20-ar2\Kapitel4\tärningspel\obj\Debug\net5.0\tärningspel.csproj.AssemblyReference.cache
+C:\github\TE20-ar2\Kapitel4\tärningspel\obj\Debug\net5.0\tärningspel.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\TE20-ar2\Kapitel4\tärningspel\obj\Debug\net5.0\tärningspel.AssemblyInfoInputs.cache
+C:\github\TE20-ar2\Kapitel4\tärningspel\obj\Debug\net5.0\tärningspel.AssemblyInfo.cs
+C:\github\TE20-ar2\Kapitel4\tärningspel\obj\Debug\net5.0\tärningspel.csproj.CoreCompileInputs.cache
+C:\github\TE20-ar2\Kapitel4\tärningspel\obj\Debug\net5.0\tärningspel.dll
+C:\github\TE20-ar2\Kapitel4\tärningspel\obj\Debug\net5.0\ref\tärningspel.dll
+C:\github\TE20-ar2\Kapitel4\tärningspel\obj\Debug\net5.0\tärningspel.pdb
+C:\github\TE20-ar2\Kapitel4\tärningspel\obj\Debug\net5.0\tärningspel.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "pKBQUtLCsaWaWyRRA12IFrXkHD44VVaKN/Byb41+ai+MSker51rloWCqBV1U9C5jglKJilm8ePAv0vlrjCxm+w==",
+  "success": true,
+  "projectFilePath": "C:\\github\\vinterprojekt-NaomiArley\\vinterprojekt-NaomiArley.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arleyhallden.naomi\\.nuget\\packages\\raylib-cs\\3.7.0.1\\raylib-cs.3.7.0.1.nupkg.sha512",
+    "C:\\Users\\arleyhallden.naomi\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

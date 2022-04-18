@@ -1,0 +1,16 @@
+C:\github\TE20-ar2\Kapitel4\Slumptal\bin\Debug\net5.0\Slumptal.exe
+C:\github\TE20-ar2\Kapitel4\Slumptal\bin\Debug\net5.0\Slumptal.deps.json
+C:\github\TE20-ar2\Kapitel4\Slumptal\bin\Debug\net5.0\Slumptal.runtimeconfig.json
+C:\github\TE20-ar2\Kapitel4\Slumptal\bin\Debug\net5.0\Slumptal.runtimeconfig.dev.json
+C:\github\TE20-ar2\Kapitel4\Slumptal\bin\Debug\net5.0\Slumptal.dll
+C:\github\TE20-ar2\Kapitel4\Slumptal\bin\Debug\net5.0\ref\Slumptal.dll
+C:\github\TE20-ar2\Kapitel4\Slumptal\bin\Debug\net5.0\Slumptal.pdb
+C:\github\TE20-ar2\Kapitel4\Slumptal\obj\Debug\net5.0\Slumptal.csproj.AssemblyReference.cache
+C:\github\TE20-ar2\Kapitel4\Slumptal\obj\Debug\net5.0\Slumptal.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\TE20-ar2\Kapitel4\Slumptal\obj\Debug\net5.0\Slumptal.AssemblyInfoInputs.cache
+C:\github\TE20-ar2\Kapitel4\Slumptal\obj\Debug\net5.0\Slumptal.AssemblyInfo.cs
+C:\github\TE20-ar2\Kapitel4\Slumptal\obj\Debug\net5.0\Slumptal.csproj.CoreCompileInputs.cache
+C:\github\TE20-ar2\Kapitel4\Slumptal\obj\Debug\net5.0\Slumptal.dll
+C:\github\TE20-ar2\Kapitel4\Slumptal\obj\Debug\net5.0\ref\Slumptal.dll
+C:\github\TE20-ar2\Kapitel4\Slumptal\obj\Debug\net5.0\Slumptal.pdb
+C:\github\TE20-ar2\Kapitel4\Slumptal\obj\Debug\net5.0\Slumptal.genruntimeconfig.cache

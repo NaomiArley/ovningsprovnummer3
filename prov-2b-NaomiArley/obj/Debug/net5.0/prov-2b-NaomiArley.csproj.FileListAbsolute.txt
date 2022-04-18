@@ -1,0 +1,16 @@
+C:\github\prov-2b-NaomiArley\bin\Debug\net5.0\prov-2b-NaomiArley.exe
+C:\github\prov-2b-NaomiArley\bin\Debug\net5.0\prov-2b-NaomiArley.deps.json
+C:\github\prov-2b-NaomiArley\bin\Debug\net5.0\prov-2b-NaomiArley.runtimeconfig.json
+C:\github\prov-2b-NaomiArley\bin\Debug\net5.0\prov-2b-NaomiArley.runtimeconfig.dev.json
+C:\github\prov-2b-NaomiArley\bin\Debug\net5.0\prov-2b-NaomiArley.dll
+C:\github\prov-2b-NaomiArley\bin\Debug\net5.0\ref\prov-2b-NaomiArley.dll
+C:\github\prov-2b-NaomiArley\bin\Debug\net5.0\prov-2b-NaomiArley.pdb
+C:\github\prov-2b-NaomiArley\obj\Debug\net5.0\prov-2b-NaomiArley.csproj.AssemblyReference.cache
+C:\github\prov-2b-NaomiArley\obj\Debug\net5.0\prov-2b-NaomiArley.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\prov-2b-NaomiArley\obj\Debug\net5.0\prov-2b-NaomiArley.AssemblyInfoInputs.cache
+C:\github\prov-2b-NaomiArley\obj\Debug\net5.0\prov-2b-NaomiArley.AssemblyInfo.cs
+C:\github\prov-2b-NaomiArley\obj\Debug\net5.0\prov-2b-NaomiArley.csproj.CoreCompileInputs.cache
+C:\github\prov-2b-NaomiArley\obj\Debug\net5.0\prov-2b-NaomiArley.dll
+C:\github\prov-2b-NaomiArley\obj\Debug\net5.0\ref\prov-2b-NaomiArley.dll
+C:\github\prov-2b-NaomiArley\obj\Debug\net5.0\prov-2b-NaomiArley.pdb
+C:\github\prov-2b-NaomiArley\obj\Debug\net5.0\prov-2b-NaomiArley.genruntimeconfig.cache

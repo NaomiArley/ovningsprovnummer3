@@ -1,0 +1,16 @@
+C:\github\TE20-ar2\Kapitel3\BoolskaUttryck\bin\Debug\net5.0\BoolskaUttryck.exe
+C:\github\TE20-ar2\Kapitel3\BoolskaUttryck\bin\Debug\net5.0\BoolskaUttryck.deps.json
+C:\github\TE20-ar2\Kapitel3\BoolskaUttryck\bin\Debug\net5.0\BoolskaUttryck.runtimeconfig.json
+C:\github\TE20-ar2\Kapitel3\BoolskaUttryck\bin\Debug\net5.0\BoolskaUttryck.runtimeconfig.dev.json
+C:\github\TE20-ar2\Kapitel3\BoolskaUttryck\bin\Debug\net5.0\BoolskaUttryck.dll
+C:\github\TE20-ar2\Kapitel3\BoolskaUttryck\bin\Debug\net5.0\ref\BoolskaUttryck.dll
+C:\github\TE20-ar2\Kapitel3\BoolskaUttryck\bin\Debug\net5.0\BoolskaUttryck.pdb
+C:\github\TE20-ar2\Kapitel3\BoolskaUttryck\obj\Debug\net5.0\BoolskaUttryck.csproj.AssemblyReference.cache
+C:\github\TE20-ar2\Kapitel3\BoolskaUttryck\obj\Debug\net5.0\BoolskaUttryck.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\TE20-ar2\Kapitel3\BoolskaUttryck\obj\Debug\net5.0\BoolskaUttryck.AssemblyInfoInputs.cache
+C:\github\TE20-ar2\Kapitel3\BoolskaUttryck\obj\Debug\net5.0\BoolskaUttryck.AssemblyInfo.cs
+C:\github\TE20-ar2\Kapitel3\BoolskaUttryck\obj\Debug\net5.0\BoolskaUttryck.csproj.CoreCompileInputs.cache
+C:\github\TE20-ar2\Kapitel3\BoolskaUttryck\obj\Debug\net5.0\BoolskaUttryck.dll
+C:\github\TE20-ar2\Kapitel3\BoolskaUttryck\obj\Debug\net5.0\ref\BoolskaUttryck.dll
+C:\github\TE20-ar2\Kapitel3\BoolskaUttryck\obj\Debug\net5.0\BoolskaUttryck.pdb
+C:\github\TE20-ar2\Kapitel3\BoolskaUttryck\obj\Debug\net5.0\BoolskaUttryck.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\github\TE20-ar2\intro\bin\Debug\net5.0\intro.exe
+C:\github\TE20-ar2\intro\bin\Debug\net5.0\intro.deps.json
+C:\github\TE20-ar2\intro\bin\Debug\net5.0\intro.runtimeconfig.json
+C:\github\TE20-ar2\intro\bin\Debug\net5.0\intro.runtimeconfig.dev.json
+C:\github\TE20-ar2\intro\bin\Debug\net5.0\intro.dll
+C:\github\TE20-ar2\intro\bin\Debug\net5.0\ref\intro.dll
+C:\github\TE20-ar2\intro\bin\Debug\net5.0\intro.pdb
+C:\github\TE20-ar2\intro\obj\Debug\net5.0\intro.csproj.AssemblyReference.cache
+C:\github\TE20-ar2\intro\obj\Debug\net5.0\intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\TE20-ar2\intro\obj\Debug\net5.0\intro.AssemblyInfoInputs.cache
+C:\github\TE20-ar2\intro\obj\Debug\net5.0\intro.AssemblyInfo.cs
+C:\github\TE20-ar2\intro\obj\Debug\net5.0\intro.csproj.CoreCompileInputs.cache
+C:\github\TE20-ar2\intro\obj\Debug\net5.0\intro.dll
+C:\github\TE20-ar2\intro\obj\Debug\net5.0\ref\intro.dll
+C:\github\TE20-ar2\intro\obj\Debug\net5.0\intro.pdb
+C:\github\TE20-ar2\intro\obj\Debug\net5.0\intro.genruntimeconfig.cache

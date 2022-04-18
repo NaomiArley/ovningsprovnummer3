@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "prov-2b-NaomiArley/1.0.0": {
+        "runtime": {
+          "prov-2b-NaomiArley.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "prov-2b-NaomiArley/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

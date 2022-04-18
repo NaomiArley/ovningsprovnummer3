@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2kOnS62zCD/Aoa6ntwbQEceRwf5+FRI5tpp1+bQ4I4WPxTJO0A7rwYjqi0NuvGB6FPkX03hiOTufI0pf7eTY4Q==",
+  "success": true,
+  "projectFilePath": "C:\\github\\TE20-ar2\\raylib\\dodgers\\dodgers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arleyhallden.naomi\\.nuget\\packages\\raylib-cs\\3.7.0.1\\raylib-cs.3.7.0.1.nupkg.sha512",
+    "C:\\Users\\arleyhallden.naomi\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\github\TE20-ar2\Kapitel2\övning\bin\Debug\net5.0\övning.exe
+C:\github\TE20-ar2\Kapitel2\övning\bin\Debug\net5.0\övning.deps.json
+C:\github\TE20-ar2\Kapitel2\övning\bin\Debug\net5.0\övning.runtimeconfig.json
+C:\github\TE20-ar2\Kapitel2\övning\bin\Debug\net5.0\övning.runtimeconfig.dev.json
+C:\github\TE20-ar2\Kapitel2\övning\bin\Debug\net5.0\övning.dll
+C:\github\TE20-ar2\Kapitel2\övning\bin\Debug\net5.0\ref\övning.dll
+C:\github\TE20-ar2\Kapitel2\övning\bin\Debug\net5.0\övning.pdb
+C:\github\TE20-ar2\Kapitel2\övning\obj\Debug\net5.0\övning.csproj.AssemblyReference.cache
+C:\github\TE20-ar2\Kapitel2\övning\obj\Debug\net5.0\övning.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\TE20-ar2\Kapitel2\övning\obj\Debug\net5.0\övning.AssemblyInfoInputs.cache
+C:\github\TE20-ar2\Kapitel2\övning\obj\Debug\net5.0\övning.AssemblyInfo.cs
+C:\github\TE20-ar2\Kapitel2\övning\obj\Debug\net5.0\övning.csproj.CoreCompileInputs.cache
+C:\github\TE20-ar2\Kapitel2\övning\obj\Debug\net5.0\övning.dll
+C:\github\TE20-ar2\Kapitel2\övning\obj\Debug\net5.0\ref\övning.dll
+C:\github\TE20-ar2\Kapitel2\övning\obj\Debug\net5.0\övning.pdb
+C:\github\TE20-ar2\Kapitel2\övning\obj\Debug\net5.0\övning.genruntimeconfig.cache

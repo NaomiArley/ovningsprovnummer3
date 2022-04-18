@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QIrh/Rqlt5a9Rn/1M5s5zA5CV+W68iA+uwMrGHoOSE0+RSM5JbHVOnEwdDVDA2JXh1ZI5FK87s9CQ3nriADXKQ==",
+  "success": true,
+  "projectFilePath": "C:\\github\\TE20-ar2\\raylib\\bilder\\bilder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arleyhallden.naomi\\.nuget\\packages\\raylib-cs\\3.7.0.1\\raylib-cs.3.7.0.1.nupkg.sha512",
+    "C:\\Users\\arleyhallden.naomi\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

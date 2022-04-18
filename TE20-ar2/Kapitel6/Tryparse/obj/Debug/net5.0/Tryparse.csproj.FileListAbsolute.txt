@@ -1,0 +1,16 @@
+C:\github\TE20-ar2\Kapitel6\Tryparse\bin\Debug\net5.0\Tryparse.exe
+C:\github\TE20-ar2\Kapitel6\Tryparse\bin\Debug\net5.0\Tryparse.deps.json
+C:\github\TE20-ar2\Kapitel6\Tryparse\bin\Debug\net5.0\Tryparse.runtimeconfig.json
+C:\github\TE20-ar2\Kapitel6\Tryparse\bin\Debug\net5.0\Tryparse.runtimeconfig.dev.json
+C:\github\TE20-ar2\Kapitel6\Tryparse\bin\Debug\net5.0\Tryparse.dll
+C:\github\TE20-ar2\Kapitel6\Tryparse\bin\Debug\net5.0\ref\Tryparse.dll
+C:\github\TE20-ar2\Kapitel6\Tryparse\bin\Debug\net5.0\Tryparse.pdb
+C:\github\TE20-ar2\Kapitel6\Tryparse\obj\Debug\net5.0\Tryparse.csproj.AssemblyReference.cache
+C:\github\TE20-ar2\Kapitel6\Tryparse\obj\Debug\net5.0\Tryparse.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\TE20-ar2\Kapitel6\Tryparse\obj\Debug\net5.0\Tryparse.AssemblyInfoInputs.cache
+C:\github\TE20-ar2\Kapitel6\Tryparse\obj\Debug\net5.0\Tryparse.AssemblyInfo.cs
+C:\github\TE20-ar2\Kapitel6\Tryparse\obj\Debug\net5.0\Tryparse.csproj.CoreCompileInputs.cache
+C:\github\TE20-ar2\Kapitel6\Tryparse\obj\Debug\net5.0\Tryparse.dll
+C:\github\TE20-ar2\Kapitel6\Tryparse\obj\Debug\net5.0\ref\Tryparse.dll
+C:\github\TE20-ar2\Kapitel6\Tryparse\obj\Debug\net5.0\Tryparse.pdb
+C:\github\TE20-ar2\Kapitel6\Tryparse\obj\Debug\net5.0\Tryparse.genruntimeconfig.cache

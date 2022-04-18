@@ -1,0 +1,16 @@
+C:\github\TE20-ar2\Kapitel4\lyckohjul\bin\Debug\net5.0\lyckohjul.exe
+C:\github\TE20-ar2\Kapitel4\lyckohjul\bin\Debug\net5.0\lyckohjul.deps.json
+C:\github\TE20-ar2\Kapitel4\lyckohjul\bin\Debug\net5.0\lyckohjul.runtimeconfig.json
+C:\github\TE20-ar2\Kapitel4\lyckohjul\bin\Debug\net5.0\lyckohjul.runtimeconfig.dev.json
+C:\github\TE20-ar2\Kapitel4\lyckohjul\bin\Debug\net5.0\lyckohjul.dll
+C:\github\TE20-ar2\Kapitel4\lyckohjul\bin\Debug\net5.0\ref\lyckohjul.dll
+C:\github\TE20-ar2\Kapitel4\lyckohjul\bin\Debug\net5.0\lyckohjul.pdb
+C:\github\TE20-ar2\Kapitel4\lyckohjul\obj\Debug\net5.0\lyckohjul.csproj.AssemblyReference.cache
+C:\github\TE20-ar2\Kapitel4\lyckohjul\obj\Debug\net5.0\lyckohjul.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\TE20-ar2\Kapitel4\lyckohjul\obj\Debug\net5.0\lyckohjul.AssemblyInfoInputs.cache
+C:\github\TE20-ar2\Kapitel4\lyckohjul\obj\Debug\net5.0\lyckohjul.AssemblyInfo.cs
+C:\github\TE20-ar2\Kapitel4\lyckohjul\obj\Debug\net5.0\lyckohjul.csproj.CoreCompileInputs.cache
+C:\github\TE20-ar2\Kapitel4\lyckohjul\obj\Debug\net5.0\lyckohjul.dll
+C:\github\TE20-ar2\Kapitel4\lyckohjul\obj\Debug\net5.0\ref\lyckohjul.dll
+C:\github\TE20-ar2\Kapitel4\lyckohjul\obj\Debug\net5.0\lyckohjul.pdb
+C:\github\TE20-ar2\Kapitel4\lyckohjul\obj\Debug\net5.0\lyckohjul.genruntimeconfig.cache

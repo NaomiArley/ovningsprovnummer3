@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "k7XoIcjmS+dT+CQo3b2niNE9kzSJJFbqRmzgzCJdYNv/OnEfNQiRdyRQC3IXFvjPEkJ06vBBw0DGsK+T8O04uA==",
+  "success": true,
+  "projectFilePath": "C:\\github\\TE20-ar2\\raylib\\raf\\raf.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arleyhallden.naomi\\.nuget\\packages\\raylib-cs\\3.7.0.1\\raylib-cs.3.7.0.1.nupkg.sha512",
+    "C:\\Users\\arleyhallden.naomi\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

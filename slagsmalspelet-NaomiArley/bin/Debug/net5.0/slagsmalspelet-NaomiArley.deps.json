@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "slagsmalspelet-NaomiArley/1.0.0": {
+        "runtime": {
+          "slagsmalspelet-NaomiArley.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "slagsmalspelet-NaomiArley/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

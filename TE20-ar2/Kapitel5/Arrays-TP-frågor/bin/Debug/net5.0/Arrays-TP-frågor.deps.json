@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Arrays-TP-frågor/1.0.0": {
+        "runtime": {
+          "Arrays-TP-frågor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Arrays-TP-frågor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

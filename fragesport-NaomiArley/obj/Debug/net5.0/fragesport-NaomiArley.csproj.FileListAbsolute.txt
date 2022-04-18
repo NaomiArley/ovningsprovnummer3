@@ -1,0 +1,16 @@
+C:\github\Ny mapp\fragesport-NaomiArley\bin\Debug\net5.0\fragesport-NaomiArley.exe
+C:\github\Ny mapp\fragesport-NaomiArley\bin\Debug\net5.0\fragesport-NaomiArley.deps.json
+C:\github\Ny mapp\fragesport-NaomiArley\bin\Debug\net5.0\fragesport-NaomiArley.runtimeconfig.json
+C:\github\Ny mapp\fragesport-NaomiArley\bin\Debug\net5.0\fragesport-NaomiArley.runtimeconfig.dev.json
+C:\github\Ny mapp\fragesport-NaomiArley\bin\Debug\net5.0\fragesport-NaomiArley.dll
+C:\github\Ny mapp\fragesport-NaomiArley\bin\Debug\net5.0\ref\fragesport-NaomiArley.dll
+C:\github\Ny mapp\fragesport-NaomiArley\bin\Debug\net5.0\fragesport-NaomiArley.pdb
+C:\github\Ny mapp\fragesport-NaomiArley\obj\Debug\net5.0\fragesport-NaomiArley.csproj.AssemblyReference.cache
+C:\github\Ny mapp\fragesport-NaomiArley\obj\Debug\net5.0\fragesport-NaomiArley.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\Ny mapp\fragesport-NaomiArley\obj\Debug\net5.0\fragesport-NaomiArley.AssemblyInfoInputs.cache
+C:\github\Ny mapp\fragesport-NaomiArley\obj\Debug\net5.0\fragesport-NaomiArley.AssemblyInfo.cs
+C:\github\Ny mapp\fragesport-NaomiArley\obj\Debug\net5.0\fragesport-NaomiArley.csproj.CoreCompileInputs.cache
+C:\github\Ny mapp\fragesport-NaomiArley\obj\Debug\net5.0\fragesport-NaomiArley.dll
+C:\github\Ny mapp\fragesport-NaomiArley\obj\Debug\net5.0\ref\fragesport-NaomiArley.dll
+C:\github\Ny mapp\fragesport-NaomiArley\obj\Debug\net5.0\fragesport-NaomiArley.pdb
+C:\github\Ny mapp\fragesport-NaomiArley\obj\Debug\net5.0\fragesport-NaomiArley.genruntimeconfig.cache

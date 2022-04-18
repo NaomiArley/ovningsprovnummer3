@@ -1,0 +1,16 @@
+C:\github\TE20-ar2\Kapitel2\Parse\bin\Debug\net5.0\Parse.exe
+C:\github\TE20-ar2\Kapitel2\Parse\bin\Debug\net5.0\Parse.deps.json
+C:\github\TE20-ar2\Kapitel2\Parse\bin\Debug\net5.0\Parse.runtimeconfig.json
+C:\github\TE20-ar2\Kapitel2\Parse\bin\Debug\net5.0\Parse.runtimeconfig.dev.json
+C:\github\TE20-ar2\Kapitel2\Parse\bin\Debug\net5.0\Parse.dll
+C:\github\TE20-ar2\Kapitel2\Parse\bin\Debug\net5.0\ref\Parse.dll
+C:\github\TE20-ar2\Kapitel2\Parse\bin\Debug\net5.0\Parse.pdb
+C:\github\TE20-ar2\Kapitel2\Parse\obj\Debug\net5.0\Parse.csproj.AssemblyReference.cache
+C:\github\TE20-ar2\Kapitel2\Parse\obj\Debug\net5.0\Parse.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\TE20-ar2\Kapitel2\Parse\obj\Debug\net5.0\Parse.AssemblyInfoInputs.cache
+C:\github\TE20-ar2\Kapitel2\Parse\obj\Debug\net5.0\Parse.AssemblyInfo.cs
+C:\github\TE20-ar2\Kapitel2\Parse\obj\Debug\net5.0\Parse.csproj.CoreCompileInputs.cache
+C:\github\TE20-ar2\Kapitel2\Parse\obj\Debug\net5.0\Parse.dll
+C:\github\TE20-ar2\Kapitel2\Parse\obj\Debug\net5.0\ref\Parse.dll
+C:\github\TE20-ar2\Kapitel2\Parse\obj\Debug\net5.0\Parse.pdb
+C:\github\TE20-ar2\Kapitel2\Parse\obj\Debug\net5.0\Parse.genruntimeconfig.cache

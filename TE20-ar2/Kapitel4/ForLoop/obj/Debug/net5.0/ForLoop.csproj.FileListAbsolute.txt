@@ -1,0 +1,16 @@
+C:\github\TE20-ar2\Kapitel4\ForLoop\bin\Debug\net5.0\ForLoop.exe
+C:\github\TE20-ar2\Kapitel4\ForLoop\bin\Debug\net5.0\ForLoop.deps.json
+C:\github\TE20-ar2\Kapitel4\ForLoop\bin\Debug\net5.0\ForLoop.runtimeconfig.json
+C:\github\TE20-ar2\Kapitel4\ForLoop\bin\Debug\net5.0\ForLoop.runtimeconfig.dev.json
+C:\github\TE20-ar2\Kapitel4\ForLoop\bin\Debug\net5.0\ForLoop.dll
+C:\github\TE20-ar2\Kapitel4\ForLoop\bin\Debug\net5.0\ref\ForLoop.dll
+C:\github\TE20-ar2\Kapitel4\ForLoop\bin\Debug\net5.0\ForLoop.pdb
+C:\github\TE20-ar2\Kapitel4\ForLoop\obj\Debug\net5.0\ForLoop.csproj.AssemblyReference.cache
+C:\github\TE20-ar2\Kapitel4\ForLoop\obj\Debug\net5.0\ForLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\TE20-ar2\Kapitel4\ForLoop\obj\Debug\net5.0\ForLoop.AssemblyInfoInputs.cache
+C:\github\TE20-ar2\Kapitel4\ForLoop\obj\Debug\net5.0\ForLoop.AssemblyInfo.cs
+C:\github\TE20-ar2\Kapitel4\ForLoop\obj\Debug\net5.0\ForLoop.csproj.CoreCompileInputs.cache
+C:\github\TE20-ar2\Kapitel4\ForLoop\obj\Debug\net5.0\ForLoop.dll
+C:\github\TE20-ar2\Kapitel4\ForLoop\obj\Debug\net5.0\ref\ForLoop.dll
+C:\github\TE20-ar2\Kapitel4\ForLoop\obj\Debug\net5.0\ForLoop.pdb
+C:\github\TE20-ar2\Kapitel4\ForLoop\obj\Debug\net5.0\ForLoop.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\github\TE20-ar2\loops\bin\Debug\net5.0\loops.exe
+C:\github\TE20-ar2\loops\bin\Debug\net5.0\loops.deps.json
+C:\github\TE20-ar2\loops\bin\Debug\net5.0\loops.runtimeconfig.json
+C:\github\TE20-ar2\loops\bin\Debug\net5.0\loops.runtimeconfig.dev.json
+C:\github\TE20-ar2\loops\bin\Debug\net5.0\loops.dll
+C:\github\TE20-ar2\loops\bin\Debug\net5.0\ref\loops.dll
+C:\github\TE20-ar2\loops\bin\Debug\net5.0\loops.pdb
+C:\github\TE20-ar2\loops\obj\Debug\net5.0\loops.csproj.AssemblyReference.cache
+C:\github\TE20-ar2\loops\obj\Debug\net5.0\loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\TE20-ar2\loops\obj\Debug\net5.0\loops.AssemblyInfoInputs.cache
+C:\github\TE20-ar2\loops\obj\Debug\net5.0\loops.AssemblyInfo.cs
+C:\github\TE20-ar2\loops\obj\Debug\net5.0\loops.csproj.CoreCompileInputs.cache
+C:\github\TE20-ar2\loops\obj\Debug\net5.0\loops.dll
+C:\github\TE20-ar2\loops\obj\Debug\net5.0\ref\loops.dll
+C:\github\TE20-ar2\loops\obj\Debug\net5.0\loops.pdb
+C:\github\TE20-ar2\loops\obj\Debug\net5.0\loops.genruntimeconfig.cache

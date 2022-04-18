@@ -1,0 +1,16 @@
+C:\github\TE20-ar2\Kapitel5\Arrays-TP-frågor\bin\Debug\net5.0\Arrays-TP-frågor.exe
+C:\github\TE20-ar2\Kapitel5\Arrays-TP-frågor\bin\Debug\net5.0\Arrays-TP-frågor.deps.json
+C:\github\TE20-ar2\Kapitel5\Arrays-TP-frågor\bin\Debug\net5.0\Arrays-TP-frågor.runtimeconfig.json
+C:\github\TE20-ar2\Kapitel5\Arrays-TP-frågor\bin\Debug\net5.0\Arrays-TP-frågor.runtimeconfig.dev.json
+C:\github\TE20-ar2\Kapitel5\Arrays-TP-frågor\bin\Debug\net5.0\Arrays-TP-frågor.dll
+C:\github\TE20-ar2\Kapitel5\Arrays-TP-frågor\bin\Debug\net5.0\ref\Arrays-TP-frågor.dll
+C:\github\TE20-ar2\Kapitel5\Arrays-TP-frågor\bin\Debug\net5.0\Arrays-TP-frågor.pdb
+C:\github\TE20-ar2\Kapitel5\Arrays-TP-frågor\obj\Debug\net5.0\Arrays-TP-frågor.csproj.AssemblyReference.cache
+C:\github\TE20-ar2\Kapitel5\Arrays-TP-frågor\obj\Debug\net5.0\Arrays-TP-frågor.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\TE20-ar2\Kapitel5\Arrays-TP-frågor\obj\Debug\net5.0\Arrays-TP-frågor.AssemblyInfoInputs.cache
+C:\github\TE20-ar2\Kapitel5\Arrays-TP-frågor\obj\Debug\net5.0\Arrays-TP-frågor.AssemblyInfo.cs
+C:\github\TE20-ar2\Kapitel5\Arrays-TP-frågor\obj\Debug\net5.0\Arrays-TP-frågor.csproj.CoreCompileInputs.cache
+C:\github\TE20-ar2\Kapitel5\Arrays-TP-frågor\obj\Debug\net5.0\Arrays-TP-frågor.dll
+C:\github\TE20-ar2\Kapitel5\Arrays-TP-frågor\obj\Debug\net5.0\ref\Arrays-TP-frågor.dll
+C:\github\TE20-ar2\Kapitel5\Arrays-TP-frågor\obj\Debug\net5.0\Arrays-TP-frågor.pdb
+C:\github\TE20-ar2\Kapitel5\Arrays-TP-frågor\obj\Debug\net5.0\Arrays-TP-frågor.genruntimeconfig.cache

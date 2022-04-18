@@ -1,0 +1,16 @@
+C:\github\TE20-ar2\Kapitel4\GissaEttTal2\bin\Debug\net5.0\GissaEttTal2.exe
+C:\github\TE20-ar2\Kapitel4\GissaEttTal2\bin\Debug\net5.0\GissaEttTal2.deps.json
+C:\github\TE20-ar2\Kapitel4\GissaEttTal2\bin\Debug\net5.0\GissaEttTal2.runtimeconfig.json
+C:\github\TE20-ar2\Kapitel4\GissaEttTal2\bin\Debug\net5.0\GissaEttTal2.runtimeconfig.dev.json
+C:\github\TE20-ar2\Kapitel4\GissaEttTal2\bin\Debug\net5.0\GissaEttTal2.dll
+C:\github\TE20-ar2\Kapitel4\GissaEttTal2\bin\Debug\net5.0\ref\GissaEttTal2.dll
+C:\github\TE20-ar2\Kapitel4\GissaEttTal2\bin\Debug\net5.0\GissaEttTal2.pdb
+C:\github\TE20-ar2\Kapitel4\GissaEttTal2\obj\Debug\net5.0\GissaEttTal2.csproj.AssemblyReference.cache
+C:\github\TE20-ar2\Kapitel4\GissaEttTal2\obj\Debug\net5.0\GissaEttTal2.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\TE20-ar2\Kapitel4\GissaEttTal2\obj\Debug\net5.0\GissaEttTal2.AssemblyInfoInputs.cache
+C:\github\TE20-ar2\Kapitel4\GissaEttTal2\obj\Debug\net5.0\GissaEttTal2.AssemblyInfo.cs
+C:\github\TE20-ar2\Kapitel4\GissaEttTal2\obj\Debug\net5.0\GissaEttTal2.csproj.CoreCompileInputs.cache
+C:\github\TE20-ar2\Kapitel4\GissaEttTal2\obj\Debug\net5.0\GissaEttTal2.dll
+C:\github\TE20-ar2\Kapitel4\GissaEttTal2\obj\Debug\net5.0\ref\GissaEttTal2.dll
+C:\github\TE20-ar2\Kapitel4\GissaEttTal2\obj\Debug\net5.0\GissaEttTal2.pdb
+C:\github\TE20-ar2\Kapitel4\GissaEttTal2\obj\Debug\net5.0\GissaEttTal2.genruntimeconfig.cache
